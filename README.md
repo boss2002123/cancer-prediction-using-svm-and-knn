@@ -1,6 +1,6 @@
 # cancer-prediction-using-svm-and-knn
 
 
-**fsdsf**
-adfdfda
-sdfsf
+. packages used:dfasdfa
+.accuur svm
+.accurac knn
